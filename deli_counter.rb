@@ -12,5 +12,5 @@ def line (katz_deli)
 end
 puts current_sentence
 end
-taking_a_number
+taking_a_number (katz_deli.name)
 end
