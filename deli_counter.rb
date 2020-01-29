@@ -19,4 +19,4 @@ end
 def #now_serving(katz_deli)
 if "katz_deli is empty!"
 else katz_deli.shift
-  puts "currently_serving"
+  puts "currently_serving #
