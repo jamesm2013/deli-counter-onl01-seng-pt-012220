@@ -17,5 +17,5 @@ katz_deli << names
 puts "welcome, #{names}.you are number #{katz_deli} in line" 
 end
 def #now_serving(katz_deli)
-puts "there is know one waiting to ne servered!"
+if "there is know one waiting to ne servered!"
 else katz_deli.shift
