@@ -12,4 +12,5 @@ def line (katz_deli)
 end
 puts current_sentence
 end
+taking a number
 end
