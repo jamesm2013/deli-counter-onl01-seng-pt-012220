@@ -4,6 +4,6 @@ def line (katz_deli)
     puts "the line is currently empty
     else"
       counter = 1
-      katz_deli 
+      katz_deli.each 
     puts "#{counter}. #{p}"
 end
