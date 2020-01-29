@@ -13,5 +13,5 @@ end
 puts current_sentence
 end
 taking_a_number (katz_deli.name)
-katz_deli <<
+katz_deli << names
 end
