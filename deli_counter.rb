@@ -9,4 +9,5 @@ def line (katz_deli)
     puts "#{counter}. #{p}"
     current += 1
 end
-puts 
+puts current_sentence
+end
